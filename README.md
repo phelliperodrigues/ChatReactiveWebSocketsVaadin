@@ -1,5 +1,7 @@
 # Project Base for Vaadin and Spring Boot
 
+<img src="https://github.com/phelliperodrigues/ChatReactiveWebSocketsVaadin/blob/master/frontend/src/deepin-screen-recorder_dde-desktop_20200213225543.gif"/>
+
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
 
@@ -21,7 +23,3 @@ To run Integration Tests, execute `mvn verify -Pintegration-tests`.
 
 - [Vaadin Flow](https://vaadin.com/flow) documentation
 - [Using Vaadin and Spring](https://vaadin.com/docs/v14/flow/spring/tutorial-spring-basic.html) article
-
-
-
-<img src="https://github.com/phelliperodrigues/ChatReactiveWebSocketsVaadin/blob/master/frontend/src/3p5ls2.gif"/></a>
